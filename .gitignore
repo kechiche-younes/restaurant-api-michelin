@@ -1,0 +1,10 @@
+# Le sujet contient les identifiants du stockage du cours.
+/annance.txt
+
+# Configuration locale et secrets
+.env
+.env.*
+!.env.example
+/.aws/
+/.codex/
+/.agents/
